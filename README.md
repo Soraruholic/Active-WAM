@@ -37,8 +37,6 @@ We introduce **RoboTwin-AV**, a 50-task extension of RoboTwin 2.0 with executabl
 - &#9744; Release the ActiveWAM training code
 - &#9744; Release the evaluation and data-processing code
 - &#9744; Release pretrained checkpoints
-- &#9744; Release the arXiv paper and supplementary material
-- &#9744; Add reproducible setup instructions for RoboTwin-AV and TAVIS
 
 ## Citation
 
