@@ -4,7 +4,7 @@ ActiveWAM: Evidence-Aware Active Vision for World-Action Models
 
 <p align="center">
   <a href="https://icr-lab.github.io/ActiveWAM/">Project Page</a> |
-  <a href="https://arxiv.org/">arXiv (coming soon)</a> |
+  <span>arXiv (coming soon)</span> |
   <a href="https://github.com/Soraruholic/RoboTwin-AV">RoboTwin-AV</a>
 </p>
 
